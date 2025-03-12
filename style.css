@@ -25,7 +25,10 @@ h3 {
 }
 
 p {
-    font-size
+    font-size: 18px;
+    line-height: 36px;
+    color: #625e5e;
+    margin: 0;
 }
 
 .navContainer {
@@ -38,7 +41,7 @@ p {
 .navContainer a {
     text-decoration: none;
     font-size: 18px;
-    margin-right: 5-px;
+    margin-right: 50px;
     color: #000000;
 }
 
