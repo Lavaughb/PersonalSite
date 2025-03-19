@@ -14,7 +14,7 @@ body {
 h1 {
     font-size: 56px;
     line-height: 56px;
-    color: #21243d;
+    color: #0f1626;
     margin: 0;
 }
 
@@ -32,7 +32,8 @@ p {
 }
 
 .navContainer {
-    background: rgba(62,100,255,0.1);
+    /*background:  #74C0FC;*/
+    background:  #0f1626;
     padding: 20px;
     display: flex;
     justify-content: flex-end;
@@ -42,7 +43,7 @@ p {
     text-decoration: none;
     font-size: 18px;
     margin-right: 50px;
-    color: #000000;
+    color: #ffffff;
 }
 
 .blueParent {
@@ -72,7 +73,7 @@ p {
 
 .hero-content a {
     text-decoration: none;
-    background: #3e64ff;
+    background: #0f1626;
     padding: 17px;
     font-size: 18px;
     color:#ffffff;
@@ -89,4 +90,23 @@ p {
     height: 550px;
     width: 550px;
     border-radius: 50%;
+}
+
+.footer{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.socials {
+    margin-bottom: 10px;
+}
+
+.fab {
+    font-size: 25px;
+    color: black;
+    margin-right: 20px;
+
 }
