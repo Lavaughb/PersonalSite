@@ -16,7 +16,7 @@
     <div class = "navContainer">
         <a href="#About">About</a>
         <a href="#resume">Resume</a>
-        <a href="#socials">Socials</a>
+        <a href="#socials">Contact</a>
     </div>
 
     <!--Header-->
@@ -28,8 +28,33 @@
           <a target="_blank" href="Resume_LavaughBrown.pdf" id="resume">Download Resume</a>
         </div>
         <div class="hero-image">
-          <img src="headshot.jpg" alt="profile-img">
+          <img src="Asssets/headshot.jpg" alt="profile-img">
         </div>
+      </div>
+    </div>
+
+    <!--Contact Form-->
+    <div class="contactForm">
+      <div class="container">
+        <form action="Contact_form.php">
+      
+          <label for="Fname">First Name</label>
+          <input type="text" id="fname" name="firstname" placeholder="First name...">
+      
+          <label for="Lname">Last Name</label>
+          <input type="text" id="lname" name="lastname" placeholder="Last name...">
+      
+          <label for="Email">Email</label>
+          <input type="text" id="email" name="email" placeholder="Email">
+      
+          <label for="PhoneNumber">Phone Number</label>
+          <input type="text" id="Phone#" name="Phone#" placeholder="Phone Number">
+      
+          <label for="Message">Subject</label>
+          <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+      
+          <input type="submit" value="Submit">
+        </form>
       </div>
     </div>
 

@@ -24,9 +24,7 @@ This portfolio is built using the following technologies:
     * [List CSS Framework/Library, e.g., Tailwind CSS, Bootstrap, Material UI]
     * [List other frontend technologies, e.g., HTML5, CSS3, JavaScript (ES6+)]
 * **Backend (If applicable):**
-    * [List Backend Framework/Library, e.g., Node.js (Express), Python (Django/Flask), Ruby on Rails]
-    * [List Database, e.g., PostgreSQL, MySQL, MongoDB]
-    * [List other backend technologies, e.g., REST APIs, GraphQL]
+    SMTP Server: Gmail
 * **Deployment:**
     * [List Deployment Platform, e.g., Netlify, Vercel, AWS, GitHub Pages]
 * **Other Tools:**
