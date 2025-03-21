@@ -1,5 +1,5 @@
 <?php
-
+/*
 $Fname = $_POST["First name"];
 $Lname = $_POST["Last name"];
 $Email = $_POST["Email"];
@@ -30,4 +30,4 @@ $mail->Body = $Message;
 
 $mail->send();
 
-header("Location: sent.html");
+header("Location: sent.html");*/
