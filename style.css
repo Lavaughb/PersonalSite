@@ -35,7 +35,8 @@ p {
     background:  #0f1626;
     padding: 20px;
     display: flex;
-    justify-content: flex-end;
+    /*width:100%*/
+    justify-content: right;
 }
 
 .navContainer a {
